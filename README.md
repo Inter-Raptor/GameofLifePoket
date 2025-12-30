@@ -2,6 +2,8 @@
 
 A pocket-sized **ESP32** device that runs **Conway’s Game of Life** on a small display, controlled with real buttons and potentiometers.
 
+![GameOfLifePoket](case_closed_front.jpg)
+
 🎬 **Presentation video:** https://youtu.be/aNUI-kbQdfw  
 📦 **GitHub repo:** https://github.com/Inter-Raptor/GameofLifePoket
 
@@ -49,16 +51,26 @@ A pocket-sized **ESP32** device that runs **Conway’s Game of Life** on a small
 
 ---
 
-## 🔧 Build it yourself
+## 📚 Documentation
 
-➡️ Follow the complete build tutorial here: **[BUILD_GUIDE.md](BUILD_GUIDE.md)**  
-It includes the parts list, wiring examples, flashing steps, and troubleshooting.
+- 🔧 **Build tutorial (parts, wiring, flashing, troubleshooting):** **[BUILD_GUIDE.md](BUILD_GUIDE.md)**
+- 🧩 **Game of Life patterns & examples:** **[GAME_OF_LIFE_PATTERNS.md](GAME_OF_LIFE_PATTERNS.md)**
 
 ---
 
-## 📷 Photos
+## 📷 Photos (click to open)
 
-See the `images/` folder for wiring and front panel pictures.
+<p float="left">
+  <a href="case_closed_front.jpg"><img src="case_closed_front.jpg" width="240" /></a>
+  <a href="internals_overview.jpg"><img src="internals_overview.jpg" width="240" /></a>
+  <a href="backplate_buttons_wiring.jpg"><img src="backplate_buttons_wiring.jpg" width="240" /></a>
+</p>
+
+<p float="left">
+  <a href="power_charger_module.jpg"><img src="power_charger_module.jpg" width="240" /></a>
+  <a href="case_halves_open.jpg"><img src="case_halves_open.jpg" width="240" /></a>
+  <a href="wiring_on_workbench.jpg"><img src="wiring_on_workbench.jpg" width="240" /></a>
+</p>
 
 ---
 
