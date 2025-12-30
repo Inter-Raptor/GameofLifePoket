@@ -232,29 +232,17 @@ If something is inverted:
 
 ---
 
-## 10) Suggested repo files (to look “pro”)
+## 10) Recommended repository files (for a clean “pro” look)
 
 Add these to GitHub:
-- `README.md` (project overview + video + quick start)
-- `BUILD_GUIDE.md` (this file)
-- `WIRING.md` (optional: just the pin table + diagram)
-- `images/` (photos of wiring and front panel)
-- `LICENSE` (MIT recommended if you want people to reuse it)
+
+- `README.md` — Main page: project overview, video link, quick start
+- `BUILD_GUIDE.md` — Full build tutorial (parts list, wiring, flashing, troubleshooting)
+- `WIRING.md` *(optional)* — Pin table + a simple wiring diagram
+- `images/` — Photos of the device, wiring, and front panel
+- `LICENSE` — **MIT** (recommended if you want others to reuse/modify the project)
+
+> If you only want the essentials: keep **README.md + BUILD_GUIDE.md + images/**.
 
 ---
-
-## 11) Next improvement (optional but cool)
-
-- Add a serial “pin test mode” to verify buttons/pots before running the full UI
-- Print width/height values briefly on screen when pots move
-- Add a “long press” to reset or clear the grid
-
----
-
-### Want me to make it 100% accurate to YOUR build?
-If you paste your **GPIO defines** (the lines in code where pins are declared), I’ll rewrite this guide with:
-- exact wiring table
-- exact screen type
-- exact power module recommendations
-- a clean wiring diagram (ASCII + a simple schematic)
 
