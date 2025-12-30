@@ -2,7 +2,7 @@
 
 A pocket-sized **ESP32** device that runs **Conway’s Game of Life** on a small display, controlled with real buttons and potentiometers.
 
-![GameOfLifePoket](case_closed_front.jpg)
+![GameOfLifePoket](cover.jpg)
 
 🎬 **Presentation video:** https://youtu.be/aNUI-kbQdfw  
 📦 **GitHub repo:** https://github.com/Inter-Raptor/GameofLifePoket
